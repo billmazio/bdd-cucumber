@@ -10,4 +10,4 @@ This project demonstrates the use of Behavior-Driven Development (BDD) with Cucu
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/billmazio/bdd-cucumber.git
